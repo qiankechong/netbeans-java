@@ -17,7 +17,7 @@ public class JavaApplication1 {
     public static void main(String[] args) {
         // TODO code application logic here
       // system.out.printf("dadsfa");
-       System.out.printf("%e",1500.34); 
+       System.out.printf("%e\r\n",1500.34); 
         System.out.println("javaapplication1.JavaApplication1.main()");
         System.out.println("adsfa");
            
